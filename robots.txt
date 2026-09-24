@@ -1,0 +1,19 @@
+# L&S Consulting — all search engines and AI answer engines welcome.
+User-agent: *
+Allow: /
+Disallow: /contact.php
+
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://lsgauteng.co.za/sitemap.xml
